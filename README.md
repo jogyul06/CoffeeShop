@@ -15,17 +15,21 @@
 
 홈 화면
 
-![스크린샷 2024-12-27 163457](https://github.com/user-attachments/assets/f1394d66-a07a-40b2-b81c-e73374a280df)
-
-판매현황 화면
-
-![스크린샷 2024-12-27 163516](https://github.com/user-attachments/assets/f9d25999-2041-4f89-8c69-712fb7b97e5f)
+![스크린샷 2024-12-30 001823](https://github.com/user-attachments/assets/fef3f6aa-b86a-4bf5-8d9c-ae8ee132b8b7)
 
 판매등록 화면
 
-![스크린샷 2024-12-27 163529](https://github.com/user-attachments/assets/391ed9b8-6632-47ab-af85-45b0641659aa)
+![스크린샷 2024-12-30 001941](https://github.com/user-attachments/assets/c3292816-70bc-4e9d-9110-5fd0eccecf3b)
+
+판매현황 화면
+
+![스크린샷 2024-12-30 001951](https://github.com/user-attachments/assets/aee13f87-856b-453c-8775-d6c8c2127cfd)
 
 매장별 판매액 화면
 
+![스크린샷 2024-12-30 002003](https://github.com/user-attachments/assets/299d8c17-e6bd-4b4d-b602-adfb854cd7e0)
 
 상품별 판매액 화면
+
+![스크린샷 2024-12-30 002022](https://github.com/user-attachments/assets/6b9bac18-2639-4bf0-899c-b2f84c37bd88)
+
